@@ -4,9 +4,11 @@
 
 ---
 
-- VAPT intern at **ABB CDEC** — vulnerability assessments across OT and enterprise environments
+- Cybersecurity Engineer at **ABB Electrification (CDEC)**, via Axcend — OT/ICS product security and
+  VAPT across OT and enterprise environments
 - Building security tooling for ICS/OT: threat simulation, CVE scanning, risk scoring, anomaly detection
 - Open to full-time roles in **OT security, VAPT, and AI-assisted security**
+- **M.Tech, AI & Data Science (Cybersecurity specialisation)** — National Forensic Sciences University, 2026
 - Researching: MITRE ATT&CK for ICS, supply chain risk in industrial systems, Modbus/SCADA attack surfaces
 
 ---
